@@ -29,6 +29,7 @@ Start `claude` in the folder, run `/mcp` to confirm the server shows 6 tools, th
 > Use the search_notes tool to search for MCP
 
 Notes live in the `notes/` folder next to `server.py`.
+To try it with sample data, copy the files from `example_notes/` into `notes/`.
 
 ## Tests
 
