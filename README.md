@@ -1,6 +1,8 @@
 # Notes MCP Server
 
 An MCP (Model Context Protocol) server that lets Claude read, search, create, append to and delete markdown notes in a local folder. Built in Python with the official MCP SDK.
+https://github.com/user-attachments/assets/4b5bfdc0-f3e9-4db0-8e4a-ef696e20571a
+
 
 ## What it does
 
